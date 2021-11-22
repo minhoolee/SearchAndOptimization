@@ -8,5 +8,8 @@ into categories, and each category is executed with select benchmarks.
     * [Iterative Optimization] (#iterative-optimization)
 
 # Iterative Optimization
+## Gradient Descent
 ![gradient_descent](https://github.com/minhoolee/SearchAndOptimizationGifs/blob/master/iterative_optimization/gradient_descent.gif)
+
+## Newton Descent
 ![newton_descent](https://github.com/minhoolee/SearchAndOptimizationGifs/blob/master/iterative_optimization/newton_descent.gif)
