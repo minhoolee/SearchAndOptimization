@@ -5,7 +5,6 @@ optimization algorithms in Python. Algorithms are grouped by similarity
 into categories, and each category is executed with select benchmarks.
 
 # Table of Contents
-    * [Iterative Optimization] (#iterative-optimization)
 
 # Iterative Optimization
 ## Gradient Descent
